@@ -1,3 +1,8 @@
+    .logo {
+        width: 300 px ;
+        height: 400px;
+    }
+    
     img {
         width: 700px;
         height: 400px;
@@ -52,3 +57,60 @@
     .feature-img figure img{
         width: 100%;
     }
+
+    
+figcaption {
+    text-align: center;
+  }
+  
+  .biografia h2 {
+    border-left: 5px solid #0510da;
+    padding: 12px;
+    margin: 20px auto;
+    font-size: 1.8rem;
+  }
+  
+  .biografia p {
+    margin: 20px 0px;
+  }
+
+  .citacao {
+    background-color: rgb(7, 7, 7);
+    border-left: 6px solid #2727ae;
+    border-radius: 10px;
+    width: 600px;
+    padding: 10px;
+  }
+
+  .citacao blockquote{
+    color: #2727ae;
+    font-style: italic;
+    font-size: 1.2rem;
+  }
+.citacao p {
+    color: #2727ae;
+    margin-top: 20px;
+    font-size: 1rem;
+    font-style: normal;
+}
+  .curiosidades{
+    padding: 12px;
+    margin: 20px auto;
+    font-size: 1.4rem;
+  }
+  .curiosidades ul {
+    list-style: square inside;
+    padding-left: 20px;
+  }
+  .curiosidades li {
+    margin: 6px 0;
+    color: #b5b8bc;
+  }
+
+  footer {
+    text-align: center;
+  }
+  footer h2 {
+    padding: 12px;
+    font-size: 1.8rem;
+  }
